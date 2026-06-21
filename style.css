@@ -3,3 +3,18 @@
 .inter {
   font-family: "Inter", sans-serif;
 }
+.seat{
+  background-color: #F7F8F8;
+  border-radius: 12px;
+  padding: 17px 47px;
+}
+.seat-p > p{
+  text-align: center;
+}
+.selected-seat{
+  background-color: rgb(23, 177, 23);
+  color: white;
+}
+.show{
+  display: flex;
+}
